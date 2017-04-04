@@ -1,0 +1,30 @@
+{
+  "name": "jdsdk-node",
+  "version": "1.0.0",
+  "description": "jos api for nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolyshaw/jdsdk-node.git"
+  },
+  "keywords": [
+    "jd",
+    "jdsdk",
+    "jos"
+  ],
+  "author": "wolyshaw <shaw@xwlong.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolyshaw/jdsdk-node/issues"
+  },
+  "homepage": "https://github.com/wolyshaw/jdsdk-node#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "url": "^0.11.0"
+  }
+}
